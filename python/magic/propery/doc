@@ -1,0 +1,3 @@
+属性函数property
+a.讲类方法转换为只读属性
+b.绑定其他属性，如setter和getter.
